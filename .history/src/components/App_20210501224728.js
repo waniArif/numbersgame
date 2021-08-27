@@ -1,6 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
-import Game from './Game';
+import StarsDisplay from './StarDisplay';
+import PlayNumber from './PlayNumber';
+import PlayAgain from './PlayAgain';
 
 // STAR MATCH - V9
 
